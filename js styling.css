@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  #dynamicText {
+    color: blue;
+    font-size: 20px;
+  }
+  
+  #dynamicText2 {
+    color: rgb(255, 0, 81);
+    font-size: 20px;
+  }
+  button {
+    color:black;
+    background-color: chartreuse;
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 10px;
+  }
